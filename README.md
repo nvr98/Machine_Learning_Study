@@ -1,1 +1,3 @@
-# Machine_Learning_Study
+This contains various codes realted to the machine learning course
+
+"Happy Learning "

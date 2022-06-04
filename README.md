@@ -1,3 +1,3 @@
-This contains various codes realted to the machine learning course
+This contains various codes related to the machine learning course
 
 "Happy Learning "
